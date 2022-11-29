@@ -680,7 +680,7 @@ footer {
     width: 76%;
 }
 .top-about-section {
-    background-image: url(/suzu_03.jpeg);
+    background-image: url(../suzu_03.jpeg);
     width: 100%;
     height: 30rem;
     background-size: cover;
@@ -775,7 +775,7 @@ footer {
     width: 76%;
 }
 .top-works-section {
-    background-image: url(/suzu_15.jpeg);
+    background-image: url(../suzu_15.jpeg);
     width: 100%;
     height: 30rem;
     background-size: cover;
@@ -901,7 +901,7 @@ main .service-main-box #container {
     width: 76%;
 }
 .top-service-section {
-    background-image: url(/suzu_08.jpeg);
+    background-image: url(../suzu_08.jpeg);
     width: 100%;
     height: 30rem;
     background-size: cover;
