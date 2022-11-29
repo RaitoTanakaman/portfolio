@@ -1405,4 +1405,9 @@ main .service-main-box #container {
     .service {
         margin-top: 2rem;
     }
+    
+    .service-list-box {
+        width: 80%;
+        margin: 0 auto;
+    }
 }
