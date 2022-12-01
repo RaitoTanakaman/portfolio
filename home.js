@@ -90,7 +90,6 @@ function addFadeOut(url) {
 
 linkEls.forEach((linkEl) => {
   linkEl.addEventListener("click", (e) => {
-    // command or control+クリックのときは処理しない
     if ((e.ctrlKey && !e.metaKey) || (!e.ctrlKey && e.metaKey)) return;
   })
 })
